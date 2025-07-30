@@ -5,9 +5,7 @@
 
 <h3 align="left"> Hello! I am a Frontend, Backend Developer and Data Analyst. Additionally, I specialize in creating custom scripts for games.</h3>
 
-- 🔭 I’m currently working on **.NET	Framework**
-
-- 📫 How to reach me **venusdevstudio@gmail.com**
+- 📫 How to reach me **burakfehimsalis@gmail.com** and **https://www.fehimsalis.com/**
 
 
 
