@@ -42,7 +42,7 @@
  
   <p align="center">
   <a>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=JustTheVenus&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="JustTheVenus" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=4Timci4&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="4Timci4" />
   </a>
 </p>
 
