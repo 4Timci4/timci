@@ -59,7 +59,7 @@
   
   <p align="center">
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustTheVenus&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="JustTheVenus" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Timci4&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="4Timci4" />
   </a>
 </p>
  
