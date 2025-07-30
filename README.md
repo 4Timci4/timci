@@ -51,12 +51,6 @@
 
 
  
- <p align="center">
-  <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JustTheVenus&theme=material-palenight&hide_border=false" alt="JustTheVenus" width="55%" />
-  </a>
-</p>
- 
 
  
  <br />
